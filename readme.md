@@ -1,9 +1,3 @@
----
-title: python爬虫系列之Scrapy框架
-tags: Python
-categories: Python
-date: 2018-08-22 18:59:59
----
 
 ![](http://p20tr36iw.bkt.clouddn.com/py_scrapy.png)
 
